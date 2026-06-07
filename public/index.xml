@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Gerold Baier</title>
+      <link>https://jzhao.xyz</link>
+      <description>Last 10 notes on Gerold Baier</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Interactive Simulation</title>
+    <link>https://jzhao.xyz/Interactive-Simulation</link>
+    <guid>https://jzhao.xyz/Interactive-Simulation</guid>
+    <description><![CDATA[ Simulation Use the interactive Python simulation below to adjust heart rate, stroke volume, and total peripheral resistance to see how they impact the pressure-volume loop. Note: If the simulation doesn’t load, ensure your local server is running. ]]></description>
+    <pubDate>Tue, 26 May 2026 15:36:55 GMT</pubDate>
+  </item><item>
+    <title>Electro-chemical Gradient</title>
+    <link>https://jzhao.xyz/Electro-chemical-Gradient</link>
+    <guid>https://jzhao.xyz/Electro-chemical-Gradient</guid>
+    <description><![CDATA[ Membran Protein Systems Ion channels act as the primary communicators between the interior and the exterior of a cell. Key Connections The transport follows the electro-chemical Gradients to allow particle and charge transport. ]]></description>
+    <pubDate>Tue, 26 May 2026 14:07:53 GMT</pubDate>
+  </item><item>
+    <title>Gradients in General</title>
+    <link>https://jzhao.xyz/Gradients-in-General</link>
+    <guid>https://jzhao.xyz/Gradients-in-General</guid>
+    <description><![CDATA[ Gradients Electrolytes can be transported if they experience gradients Key Connections Changes in membrane resistance (capacitance) will lead to changes in the transport velocity across a membrane. Electro-chemical Gradient. ]]></description>
+    <pubDate>Tue, 26 May 2026 14:00:35 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://jzhao.xyz/</link>
+    <guid>https://jzhao.xyz/</guid>
+    <description><![CDATA[ This network contains two components: Electro-chemical Gradient Gradients in General Interactive Simulation . ]]></description>
+    <pubDate>Tue, 26 May 2026 13:56:13 GMT</pubDate>
+  </item><item>
+    <title>Galton Scatter</title>
+    <link>https://jzhao.xyz/Graphics/Galton-Scatter</link>
+    <guid>https://jzhao.xyz/Graphics/Galton-Scatter</guid>
+    <description><![CDATA[ ‘/Users/geroldbaier/Library/CloudStorage/Dropbox/Dynamical Systems/Visualisation/Galton Scatter.png’ This is a plot by eugenicist Galton, the teacher of Pearson, for child height against parent height to show some correlation between parents and children. ]]></description>
+    <pubDate>Thu, 30 Apr 2026 05:40:52 GMT</pubDate>
+  </item><item>
+    <title>Scatter in Broad Street</title>
+    <link>https://jzhao.xyz/Graphics/Scatter-in-Broad-Street</link>
+    <guid>https://jzhao.xyz/Graphics/Scatter-in-Broad-Street</guid>
+    <description><![CDATA[ Broad Street, London has a figure from a historical book about the location of water pumps and reported deaths in London. It shows that deaths accumulate around one location and are diffuse in other places. #scatter #graphics Lesson Structure Hub. ]]></description>
+    <pubDate>Thu, 30 Apr 2026 05:38:15 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
